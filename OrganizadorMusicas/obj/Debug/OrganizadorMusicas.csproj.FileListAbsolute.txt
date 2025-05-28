@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\bin\Debug\OrganizadorMusicas.exe.config
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\bin\Debug\OrganizadorMusicas.exe
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\bin\Debug\OrganizadorMusicas.pdb
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\obj\Debug\OrganizadorMusicas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\obj\Debug\OrganizadorMusicas.Form1.resources
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\obj\Debug\OrganizadorMusicas.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\obj\Debug\OrganizadorMusicas.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\obj\Debug\OrganizadorMusicas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\obj\Debug\OrganizadorMusicas.exe
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\obj\Debug\OrganizadorMusicas.pdb
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\obj\Debug\Interop.WMPLib.dll
+C:\Users\USUARIO\source\repos\OrganizadorMusicas\OrganizadorMusicas\obj\Debug\OrganizadorMusicas.csproj.ResolveComReference.cache
